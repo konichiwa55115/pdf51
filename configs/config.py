@@ -10,7 +10,7 @@ class bot(object):
     API_HASH = "ee28199396e0925f1f44d945ac174f64"
     
     # add API_TOKEN from @botfather (Mandatory)
-    API_TOKEN = "5338812050:AAE2f5v9ZPeS-dLwy5BHoSf93GiGGuRImuw"
+    API_TOKEN = "6037424775:AAE5FDz5Vjz1blO0gJFTp6zYEDRiuO6Wr2k"
 
 
 class dm(object):
